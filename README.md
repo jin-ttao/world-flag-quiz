@@ -4,7 +4,7 @@
 
 ## 라이브 데모
 
-배포 후 추가 예정.
+<https://jin-ttao.github.io/world-flag-quiz/>
 
 ## 원본 출처
 
